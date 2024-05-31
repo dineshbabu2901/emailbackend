@@ -1,0 +1,72 @@
+<mjml>
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="#ffffff" padding="20px 0">
+      <mj-column> </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px 0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="20px"
+          font-weight="bold"
+          color="#333333"
+          padding="0 0 20px"
+          >Reset your Password</mj-text
+        >
+        <mj-text
+          align="center"
+          font-size="16px"
+          color="#666666"
+          padding="0 0 20px"
+        >
+          Hi Jack ,</mj-text
+        >
+        <mj-text
+          align="center"
+          font-size="16px"
+          color="#666666"
+          padding="0 0 20px"
+          >We have received a password change request for your Trustpe account.
+          If you did not ask to change your password, then you can ignore this
+          email and your password will not be changed. The link below will
+          remain active for 24 hours.</mj-text
+        >
+        <mj-button
+          background-color="#007bff"
+          color="#ffffff"
+          font-size="16px"
+          href="https://trust.pe/reset-password"
+          align="center"
+          padding="15px 30px"
+          border-radius="5px"
+          >Reset Password</mj-button
+        >
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="20px 0">
+      <mj-column>
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="#999999"
+          padding="0 0 10px"
+          >&copy; 2024 Trustpe. All rights reserved.</mj-text
+        >
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="#999999"
+          padding="0 0 10px"
+          >123 Main Street, Vellore, Tamilnadu, India</mj-text
+        >
+        <mj-text
+          align="center"
+          font-size="14px"
+          color="#999999"
+          padding="0 0 10px"
+          ><a href="https://example.com">www.trustpe.com</a></mj-text
+        >
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
